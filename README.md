@@ -2,17 +2,14 @@
 
 ## Future
 
-| Event | Presentation | Type | Location | Year |
-| :--------: | :--------: | :----: | :------: | :--: |
-| [ARCtic Conference](https://arcticonference.com/) | [Architecting feature walkthroughts, pre- and post-TipKit](https://arcticonference.com/workshop/walkthroughs/) | Workshop | Oulu 🇫🇮 | 2025 |
-| [ARCtic Conference](https://arcticonference.com/) | Long live the code comment! | Talk | Oulu 🇫🇮 | 2025 |
-
 Please email me at alainakafkes@gmail.com if you'd like me to speak or host a workshop at your event 🥺
 
 ## Past
 
 | Event | Presentation | Type | Location | Year |
 | :--------: | :--------: | :----: | :------: | :--: |
+| [ARCtic Conference](https://arcticonference.com/) | [Architecting feature walkthroughts, pre- and post-TipKit](https://arcticonference.com/workshop/walkthroughs/) | Workshop | Oulu 🇫🇮 | 2025 |
+| [ARCtic Conference](https://arcticonference.com/) | Long live the code comment! | Talk | Oulu 🇫🇮 | 2025 |
 | [EmpowerApps](https://www.empowerapps.show/) | [Gift and Curse: Working with Newly Released Apple Frameworks](https://www.youtube.com/watch?v=IhEhYZ6PUG4) | Podcast | ~ worldwide ~ 🌐 | 2023 |
 | [Swift Language User Group](https://www.meetup.com/swift-language/) | Gift and Curse: Working with Newly Released Apple Frameworks | Talk | San Francisco 🇺🇸 | 2023 |
 | [SwiftConf](https://swiftconf.com/#/) | [Gift and Curse: Working with Newly Released Apple Frameworks](https://www.youtube.com/watch?v=m59YfHHYGJk) | Talk | Köln 🇩🇪 | 2023 |
